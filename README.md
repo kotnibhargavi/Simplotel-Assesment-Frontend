@@ -13,7 +13,7 @@ html, css ..
 
 
 ## Support
-For support, email -neelachari34@gmail.com 
+For support, email - kotnibhargavi0103@gmail.com
 
 For Go to the website click the link:-[simplotel](https://simplotelpvtd.netlify.app/)
 
